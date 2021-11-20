@@ -1,5 +1,5 @@
 
-# Lists Of My Porjects
+# Lists Of My Projects
 
 This repository contains a list of projects I've worked on
 
