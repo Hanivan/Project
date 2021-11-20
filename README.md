@@ -25,8 +25,8 @@ Check out my [portfolio website](https://hanivan.github.io)
 
 | No  | Project Name          | Type | Status | Description | URL |
 | --- | --------------------- |:----:|:------:|:-----------:|:---:|
-| 1   | Bookshelf-API  | BackEnd | `Inactive` | Submission from Dicoding, create RESTfull API | [View Repo](https://github.com/Hanivan/Bookshelf-API) |
-| 2   | Contact App CLI | BackEnd | `Inactive` | Built using ExpressJS&MongoDB | [View Repo](https://github.com/Hanivan/contact-app-cli) |
+| 1   | Bookshelf-API  | BackEnd | _Inactive_ | Submission from Dicoding, create RESTfull API | [View Repo](https://github.com/Hanivan/Bookshelf-API) |
+| 2   | Contact App CLI | BackEnd | _Inactive_ | Built using ExpressJS&MongoDB | [View Repo](https://github.com/Hanivan/contact-app-cli) |
 
 ## Contacts
 
