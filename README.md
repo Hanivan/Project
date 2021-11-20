@@ -24,10 +24,10 @@ Check out my [portfolio website](https://hanivan.github.io)
 
 ### CLI
 
-| No  | Project Name          | Type | Status | Description | URL |
+| No  | Project Name          | Technology | Description | URL |
 | --- | --------------------- |:----:|:------:|:-----------:|:---:|
-| 1   | Bookshelf-API  | BackEnd | _Inactive_ | Submission from Dicoding, create RESTfull API | [View Repo](https://github.com/Hanivan/Bookshelf-API) |
-| 2   | Contact App CLI | BackEnd | _Inactive_ | Built using NodeJS | [View Repo](https://github.com/Hanivan/contact-app-cli) |
+| 1   | Bookshelf-API  | JavaScript | Submission from Dicoding, create RESTfull API | [View Repo](https://github.com/Hanivan/Bookshelf-API) |
+| 2   | Contact App CLI | JavaScript | Built using NodeJS | [View Repo](https://github.com/Hanivan/contact-app-cli) |
 
 ## Contacts
 
