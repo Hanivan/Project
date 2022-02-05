@@ -30,9 +30,7 @@ Check out my [portfolio website](https://hanivan.github.io)
 | --- | --------------------- |:------:|:-----------:|:---:|
 | 1   | Bookshelf-API  | JavaScript | Submission from Dicoding, create RESTfull API | [View Repo](https://github.com/Hanivan/Bookshelf-API) |
 | 2   | Contact App CLI | JavaScript | Built using NodeJS | [View Repo](https://github.com/Hanivan/contact-app-cli) |
-
-## To-do List
-- Create a One Page Layout
+| 3   | Samehadaku-CLI | Python |  Search, watch, and download anime from your console  | [View Repo](https://github.com/Hanivan/Samehadaku-CLI) |
 
 ## Contacts
 
