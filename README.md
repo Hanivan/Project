@@ -17,12 +17,13 @@ Check out my [portfolio website](https://hanivan.github.io)
 
 | No  | Project Name          | Type | Status | Description | URL |
 | --- | --------------------- |:----:|:------:|:-----------:|:---:|
-| 1   | Contact Landing Page  | FrontEnd | `Active` | Built using Bootstrap 4 | [Link](https://hanivan.github.io/contactlandingpage) |
-| 2   | MpM (Manajemen Pengelolaan Murid) | FrontEnd | `Active` | Built using Bootstrap 4 | [Link](https://hanivan.github.io/MpM) |
-| 3   | MyListCC | BackEnd | `Active` | Only focus on CRUD method using PHP language | [Link](https://mylistcc.herokuapp.com) |
-| 4   | Contact App Web | BackEnd | _Inactive_ | Built using ExpressJS and MongoDB | [View Repo](https://github.com/Hanivan/contact-app-web) |
-| 5   | KalkulatorJS | FrontEnd | `Active` | Simple Calculator built using HTML CSS JavaScript | [Link](https://hanivan.github.io/kalkulatorjs/) |
-| 6   | restAPI-Samehadaku | BackEnd | `Active` | Unofficial restAPI Samehadaku  | [Link](https://samehadaku-api.herokuapp.com/api) |
+| 1   | Yami Web  | FrontEnd | `Active` | Built using NextJS | [Link](https://yamiweb.herokuapp.com) |
+| 2   | Contact Landing Page  | FrontEnd | `Active` | Built using Bootstrap 4 | [Link](https://hanivan.github.io/contactlandingpage) |
+| 3   | MpM (Manajemen Pengelolaan Murid) | FrontEnd | `Active` | Built using Bootstrap 4 | [Link](https://hanivan.github.io/MpM) |
+| 4   | MyListCC | BackEnd | `Active` | Only focus on CRUD method using PHP language | [Link](https://mylistcc.herokuapp.com) |
+| 5   | Contact App Web | BackEnd | _Inactive_ | Built using ExpressJS and MongoDB | [View Repo](https://github.com/Hanivan/contact-app-web) |
+| 6   | KalkulatorJS | FrontEnd | `Active` | Simple Calculator built using HTML CSS JavaScript | [Link](https://hanivan.github.io/kalkulatorjs/) |
+| 7   | restAPI-Samehadaku | BackEnd | `Active` | Unofficial restAPI Samehadaku  | [Link](https://samehadaku-api.herokuapp.com/api) |
 
 ### CLI
 
