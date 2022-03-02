@@ -15,24 +15,24 @@ Check out my [portfolio website](https://hanivan.github.io)
 
 ### Web
 
-| No  | Project Name          | Type | Status | Description | URL |
-| --- | --------------------- |:----:|:------:|:-----------:|:---:|
-| 1   | Yami Web  | FrontEnd | `Active` | Built using NextJS | [Link](https://yamiweb.herokuapp.com) |
-| 2   | restAPI-Samehadaku | BackEnd | `Active` | Unofficial restAPI Samehadaku  | [Link](https://samehadaku-api.herokuapp.com/api) |
-| 3   | Contact Landing Page  | FrontEnd | `Active` | Built using Bootstrap 4 | [Link](https://hanivan.github.io/contactlandingpage) |
-| 4   | MpM (Manajemen Pengelolaan Murid) | FrontEnd | `Active` | Built using Bootstrap 4 | [Link](https://hanivan.github.io/MpM) |
-| 5   | MyListCC | BackEnd | `Active` | Only focus on CRUD method using PHP language | [Link](https://mylistcc.herokuapp.com) |
-| 6   | Contact App Web | BackEnd | _Inactive_ | Built using ExpressJS and MongoDB | [View Repo](https://github.com/Hanivan/contact-app-web) |
-| 7   | KalkulatorJS | FrontEnd | `Active` | Simple Calculator built using HTML CSS JavaScript | [Link](https://hanivan.github.io/kalkulatorjs/) |
+| No  | Project Name          | Type | Status | Description | URL | Repo |
+| --- | --------------------- |:----:|:------:|:-----------:|:---:| :--: |
+| 1   | Yami Web  | FrontEnd | `Active` | Built using NextJS | [Link](https://yamiweb.herokuapp.com) | [View](https://github.com/Hanivan/yamiweb) |
+| 2   | restAPI-Samehadaku | BackEnd | `Active` | Unofficial restAPI Samehadaku  | [Link](https://samehadaku-api.herokuapp.com/api) | [View](https://github.com/Hanivan/restAPI-Samehadaku) |
+| 3   | Contact Landing Page  | FrontEnd | `Active` | Built using Bootstrap 4 | [Link](https://hanivan.github.io/contactlandingpage) | [View](https://github.com/Hanivan/contantlandingpage) |
+| 4   | MpM (Manajemen Pengelolaan Murid) | FrontEnd | `Active` | Built using Bootstrap 4 | [Link](https://hanivan.github.io/MpM) | [View](https://github.com/Hanivan/MpM) |
+| 5   | MyListCC | BackEnd | `Active` | Only focus on CRUD method using PHP language | [Link](https://mylistcc.herokuapp.com) | `private` | 
+| 6   | Contact App Web | BackEnd | _Inactive_ | Built using ExpressJS and MongoDB| - | [View](https://github.com/Hanivan/contact-app-web) |
+| 7   | KalkulatorJS | FrontEnd | `Active` | Simple Calculator built using HTML CSS JavaScript | [Link](https://hanivan.github.io/kalkulatorjs/) | [View](https://github.com/Hanivan/kalkulatorjs) |
 
 
 ### CLI
 
-| No  | Project Name          | Technology | Description | URL |
-| --- | --------------------- |:------:|:-----------:|:---:|
-| 1   | Samehadaku-CLI | Python |  Search, watch, and download anime from your console  | [View Repo](https://github.com/Hanivan/Samehadaku-CLI) |
-| 2   | Bookshelf-API  | JavaScript | Submission from Dicoding, create RESTfull API | [View Repo](https://github.com/Hanivan/Bookshelf-API) |
-| 3   | Contact App CLI | JavaScript | Built using NodeJS | [View Repo](https://github.com/Hanivan/contact-app-cli) |
+| No  | Project Name          | Technology | Description | Repo |
+| --- | --------------------- |:------:|:-----------:|:--:|
+| 1   | Samehadaku-CLI | Python |  Search, watch, and download anime from your console  | [View](https://github.com/Hanivan/Samehadaku-CLI) |
+| 2   | Bookshelf-API  | JavaScript | Submission from Dicoding, create RESTfull API | [View](https://github.com/Hanivan/Bookshelf-API) |
+| 3   | Contact App CLI | JavaScript | Built using NodeJS | [View](https://github.com/Hanivan/contact-app-cli) |
 
 
 ## Contacts
